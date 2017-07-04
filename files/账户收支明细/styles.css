@@ -2786,8 +2786,8 @@
 }
 #u1571 {
   position:absolute;
-  left:196px;
-  top:208px;
+  left:220px;
+  top:140px;
   width:976px;
   height:610px;
   overflow:hidden;
@@ -3276,6 +3276,28 @@
   left:2px;
   top:-2px;
   width:8px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1596_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:32px;
+  height:32px;
+}
+#u1596 {
+  position:absolute;
+  left:1371px;
+  top:489px;
+  width:32px;
+  height:32px;
+}
+#u1597 {
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:28px;
   visibility:hidden;
   word-wrap:break-word;
 }
