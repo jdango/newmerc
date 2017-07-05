@@ -1332,12 +1332,15 @@
   top:34px;
   width:159px;
   height:30px;
+  font-family:'Segoe Script Normal', 'Segoe Script';
+  font-weight:400;
+  font-style:normal;
   text-align:center;
 }
 #u109 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:5px;
   width:155px;
   word-wrap:break-word;
 }
@@ -1354,14 +1357,14 @@
   top:34px;
   width:623px;
   height:30px;
-  font-family:'Heiti SC Regular', 'Heiti SC';
-  font-weight:200;
+  font-family:'Segoe Script Normal', 'Segoe Script';
+  font-weight:400;
   font-style:normal;
 }
 #u111 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:5px;
   width:619px;
   word-wrap:break-word;
 }
@@ -1378,12 +1381,15 @@
   top:34px;
   width:178px;
   height:30px;
+  font-family:'Segoe Script Normal', 'Segoe Script';
+  font-weight:400;
+  font-style:normal;
   text-align:center;
 }
 #u113 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:5px;
   width:174px;
   word-wrap:break-word;
 }
@@ -1400,12 +1406,15 @@
   top:64px;
   width:159px;
   height:30px;
+  font-family:'Segoe Script Normal', 'Segoe Script';
+  font-weight:400;
+  font-style:normal;
   text-align:center;
 }
 #u115 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:5px;
   width:155px;
   word-wrap:break-word;
 }
@@ -1422,14 +1431,14 @@
   top:64px;
   width:623px;
   height:30px;
-  font-family:'Heiti SC Regular', 'Heiti SC';
-  font-weight:200;
+  font-family:'Segoe Script Normal', 'Segoe Script';
+  font-weight:400;
   font-style:normal;
 }
 #u117 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:5px;
   width:619px;
   word-wrap:break-word;
 }
@@ -1446,12 +1455,15 @@
   top:64px;
   width:178px;
   height:30px;
+  font-family:'Segoe Script Normal', 'Segoe Script';
+  font-weight:400;
+  font-style:normal;
   text-align:center;
 }
 #u119 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:5px;
   width:174px;
   word-wrap:break-word;
 }
@@ -1468,12 +1480,15 @@
   top:94px;
   width:159px;
   height:30px;
+  font-family:'Segoe Script Normal', 'Segoe Script';
+  font-weight:400;
+  font-style:normal;
   text-align:center;
 }
 #u121 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:5px;
   width:155px;
   word-wrap:break-word;
 }
@@ -1490,11 +1505,14 @@
   top:94px;
   width:623px;
   height:30px;
+  font-family:'Segoe Script Normal', 'Segoe Script';
+  font-weight:400;
+  font-style:normal;
 }
 #u123 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:5px;
   width:619px;
   word-wrap:break-word;
 }
@@ -1511,12 +1529,15 @@
   top:94px;
   width:178px;
   height:30px;
+  font-family:'Segoe Script Normal', 'Segoe Script';
+  font-weight:400;
+  font-style:normal;
   text-align:center;
 }
 #u125 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:5px;
   width:174px;
   word-wrap:break-word;
 }
@@ -1533,6 +1554,9 @@
   top:124px;
   width:159px;
   height:30px;
+  font-family:'Segoe Script Normal', 'Segoe Script';
+  font-weight:400;
+  font-style:normal;
   text-align:center;
 }
 #u127 {
@@ -1556,6 +1580,9 @@
   top:124px;
   width:623px;
   height:30px;
+  font-family:'Segoe Script Normal', 'Segoe Script';
+  font-weight:400;
+  font-style:normal;
 }
 #u129 {
   position:absolute;
@@ -1578,6 +1605,9 @@
   top:124px;
   width:178px;
   height:30px;
+  font-family:'Segoe Script Normal', 'Segoe Script';
+  font-weight:400;
+  font-style:normal;
   text-align:center;
 }
 #u131 {
