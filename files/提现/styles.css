@@ -1688,7 +1688,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:768px;
+  width:700px;
   height:80px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -1711,7 +1711,7 @@
   position:absolute;
   left:498px;
   top:492px;
-  width:768px;
+  width:700px;
   height:80px;
   font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
@@ -1724,7 +1724,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:768px;
+  width:700px;
   height:80px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -1748,22 +1748,23 @@
 #u2075 {
   position:absolute;
   left:2px;
-  top:30px;
-  width:756px;
+  top:32px;
+  width:688px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u2076 {
   position:absolute;
-  left:517px;
+  left:515px;
   top:502px;
-  width:730px;
+  width:665px;
   height:60px;
 }
 #u2076_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:730px;
+  width:665px;
   height:60px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
